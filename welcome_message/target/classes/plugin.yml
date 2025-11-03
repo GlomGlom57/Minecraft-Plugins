@@ -1,0 +1,4 @@
+main: com.welcome_message.Main
+name: Welcome_Message
+version: 0.1
+description: Plugin de Salud
