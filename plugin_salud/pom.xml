@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.plugin_prueba</groupId>
-  <artifactId>plugin_test</artifactId>
+  <groupId>com.plugin_salud</groupId>
+  <artifactId>plugin_salud</artifactId>
   <version>0.1</version>
 
   <name>plugin_test</name>
@@ -37,7 +37,7 @@
     <resources>
       <resource>
         <directory>${project.basedir}/src/main/resources</directory>
-5        <includes>
+        <includes>
           <include>plugin.yml</include>
         </includes>
       </resource>

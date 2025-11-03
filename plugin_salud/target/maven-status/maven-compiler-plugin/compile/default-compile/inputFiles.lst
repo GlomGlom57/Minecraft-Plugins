@@ -1,5 +1,5 @@
-/home/kae/Programas/Java/prueba2/plugin_test/src/main/java/com/plugin_prueba/App.java
-/home/kae/Programas/Java/prueba2/plugin_test/src/main/java/com/plugin_prueba/ServicioSalud/ServicioSalud.java
-/home/kae/Programas/Java/prueba2/plugin_test/src/main/java/com/plugin_prueba/ServicioSalud/ServicioSaludImpl.java
-/home/kae/Programas/Java/prueba2/plugin_test/src/main/java/com/plugin_prueba/commands/ComandoSalud.java
-/home/kae/Programas/Java/prueba2/plugin_test/src/main/java/com/plugin_prueba/commands/Mensajes.java
+/home/kae/Programas/Java/minecraft_plugins/plugin_salud/src/main/java/com/plugin_salud/App.java
+/home/kae/Programas/Java/minecraft_plugins/plugin_salud/src/main/java/com/plugin_salud/ServicioSalud/ServicioSalud.java
+/home/kae/Programas/Java/minecraft_plugins/plugin_salud/src/main/java/com/plugin_salud/ServicioSalud/ServicioSaludImpl.java
+/home/kae/Programas/Java/minecraft_plugins/plugin_salud/src/main/java/com/plugin_salud/commands/ComandoSalud.java
+/home/kae/Programas/Java/minecraft_plugins/plugin_salud/src/main/java/com/plugin_salud/commands/Mensajes.java
