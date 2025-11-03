@@ -1,0 +1,7 @@
+main: com.plugin_salud.App
+name: Plugin_Salud
+version: 0.1
+description: Plugin de Salud
+commands:
+  salud:
+    description: Comando para regenerar la salud
