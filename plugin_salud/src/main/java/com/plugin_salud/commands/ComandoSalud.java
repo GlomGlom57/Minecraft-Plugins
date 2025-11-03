@@ -1,11 +1,11 @@
-package com.plugin_prueba.commands;
+package com.plugin_salud.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.plugin_prueba.ServicioSalud.ServicioSalud;
+import com.plugin_salud.ServicioSalud.ServicioSalud;
 
 public class ComandoSalud implements CommandExecutor {
 	// Generar servicio de salud

@@ -1,10 +1,10 @@
-package com.plugin_prueba;
+package com.plugin_salud;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.plugin_prueba.ServicioSalud.ServicioSalud;
-import com.plugin_prueba.ServicioSalud.ServicioSaludImpl;
-import com.plugin_prueba.commands.ComandoSalud;
+import com.plugin_salud.ServicioSalud.ServicioSalud;
+import com.plugin_salud.ServicioSalud.ServicioSaludImpl;
+import com.plugin_salud.commands.ComandoSalud;
 
 public class App extends JavaPlugin{
     // Generar comando de salud

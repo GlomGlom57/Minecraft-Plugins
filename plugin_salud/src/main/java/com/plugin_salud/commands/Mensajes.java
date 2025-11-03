@@ -1,4 +1,4 @@
-package com.plugin_prueba.commands;
+package com.plugin_salud.commands;
 
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

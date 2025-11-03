@@ -1,4 +1,4 @@
-package com.plugin_prueba.ServicioSalud;
+package com.plugin_salud.ServicioSalud;
 
 import org.bukkit.entity.Player;
 
