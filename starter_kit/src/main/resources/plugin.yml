@@ -1,0 +1,8 @@
+main: com.starter_kit.Main
+name: StarterKit
+version: 0.1
+api-version: 1.13
+description: Plugin de kit de inicio.
+commands:
+  starterkit:
+    description: Comando para recibir kit de inicio. 
